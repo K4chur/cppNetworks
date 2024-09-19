@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\vvojc\OneDrive\Desktop\IFTKN\MAGISTRATURAAAAAAAAAAAAAAAAAAA\LZRK\Lab2\Lab2-ClientServer-File\Server\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\vvojc\OneDrive\Desktop\IFTKN\MAGISTRATURAAAAAAAAAAAAAAAAAAA\LZRK\Lab2\Lab2-ClientServer-File\Server\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B2759408-E0B8-31C5-B7FC-E860586B1922}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

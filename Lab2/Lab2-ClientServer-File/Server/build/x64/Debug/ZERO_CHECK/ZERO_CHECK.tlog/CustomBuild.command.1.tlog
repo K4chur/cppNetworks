@@ -1,0 +1,10 @@
+^C:\USERS\VVOJC\ONEDRIVE\DESKTOP\IFTKN\MAGISTRATURAAAAAAAAAAAAAAAAAAA\LZRK\LAB2\LAB2-CLIENTSERVER-FILE\SERVER\BUILD\CMAKEFILES\C7357F9586836E9887EA5AB5688FDB5F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/vvojc/OneDrive/Desktop/IFTKN/MAGISTRATURAAAAAAAAAAAAAAAAAAA/LZRK/Lab2/Lab2-ClientServer-File/Server -BC:/Users/vvojc/OneDrive/Desktop/IFTKN/MAGISTRATURAAAAAAAAAAAAAAAAAAA/LZRK/Lab2/Lab2-ClientServer-File/Server/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/vvojc/OneDrive/Desktop/IFTKN/MAGISTRATURAAAAAAAAAAAAAAAAAAA/LZRK/Lab2/Lab2-ClientServer-File/Server/build/Lab2-Server.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
