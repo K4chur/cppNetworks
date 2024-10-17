@@ -1,0 +1,3 @@
+C:/Users/vvojc/OneDrive/Desktop/IFTKN/MAGISTRATURAAAAAAAAAAAAAAAAAAA/LZRK/Lab3/ClientServerUDP/Server/build/CMakeFiles/ServerLab3.dir
+C:/Users/vvojc/OneDrive/Desktop/IFTKN/MAGISTRATURAAAAAAAAAAAAAAAAAAA/LZRK/Lab3/ClientServerUDP/Server/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/vvojc/OneDrive/Desktop/IFTKN/MAGISTRATURAAAAAAAAAAAAAAAAAAA/LZRK/Lab3/ClientServerUDP/Server/build/CMakeFiles/ZERO_CHECK.dir
